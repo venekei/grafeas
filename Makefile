@@ -33,8 +33,6 @@ generate:
 	go generate ./protoc
 	cd tools && go generate
 	go generate ./protodeps
-	ls ./protoc/bin
-	ls -R ./protoc/bin/protoc
 	go generate ./cel
 	go generate ./proto/v1
 	go generate ./proto/v1alpha1
