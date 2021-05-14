@@ -3,4 +3,4 @@ updates:
   - package-ecosystem: "gomod"
     directory: "/"
     ignore:
-      - dependency-name: "google.golang.org/grpc"
+      - dependency-name: "github.com/golang/protobuf"
