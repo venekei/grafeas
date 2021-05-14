@@ -10,7 +10,7 @@ require (
 	github.com/golang/protobuf v1.3.5
 	github.com/google/go-cmp v0.3.1
 	github.com/google/logger v1.0.1
-	github.com/google/uuid v1.1.1
+	github.com/google/uuid v1.2.0
 	github.com/grpc-ecosystem/grpc-gateway v1.9.6
 	github.com/lib/pq v1.2.0
 	github.com/rs/cors v1.7.0
