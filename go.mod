@@ -12,7 +12,7 @@ require (
 	github.com/google/logger v1.0.1
 	github.com/google/uuid v1.1.1
 	github.com/grpc-ecosystem/grpc-gateway v1.9.6
-	github.com/lib/pq v1.2.0
+	github.com/lib/pq v1.10.1
 	github.com/rs/cors v1.7.0
 	github.com/spf13/viper v1.4.0
 	golang.org/x/net v0.0.0-20190813141303-74dc4d7220e7
